@@ -1,4 +1,4 @@
-# introduktion-till-html
+# Introduktion till HTML
 
 ## Övningar
 
